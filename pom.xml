@@ -6,7 +6,7 @@
 
   <groupId>in.Developer7861</groupId>
   <artifactId>chatbot-app</artifactId>
-  <version>1.1</version>
+  <version>1.0</version>
   <packaging>war</packaging>
 
   <name>chatbot-app Maven Webapp</name>
@@ -23,7 +23,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.11</version>
+      <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
