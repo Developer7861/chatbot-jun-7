@@ -1,7 +1,7 @@
 pipeline {
   agent any
   stages {
-    stage ("Hello jenkinsfile){
+    stage ("Hello jenkinsfile") {
         steps {
       echo "welcome to jenkinsfile"    
       }
